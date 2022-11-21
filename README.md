@@ -23,7 +23,7 @@ Deploy it on any arduino compatible board. It is tested on Arduino Uno.
 
 ## Built With
 
-* [Arduino IDE](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Arduino IDE](https://www.arduino.cc/) - The web framework used
 
 ## Authors
 
